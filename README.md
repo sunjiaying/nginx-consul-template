@@ -1,4 +1,4 @@
-#nginx-consul-template
+# nginx-consul-template
 
 此项目基于liberalman的ginx-consul-template做了些许的调整：
 
